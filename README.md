@@ -1,9 +1,11 @@
 # Este es el título principal
 ## y este es un subtítulo
+
 ```bash
 #!/bin/bash
 echo "Hola mundo"
 ```
+
 ```yaml
 version: '3'
 
